@@ -1,0 +1,5 @@
+Soy Maximiliano Cancelarich.
+Espero poder formar una carrera en el desarrollo de software que me permita exportar soluciones informáticas a cualquier parte del mundo, logrando facilitar la vida de cualquier persona que las utilice.
+
+CRUD hace referencia a las cuatro operaciones básicas de todo programa que utilice almacenamiento permanente.
+Las aplicaciones crean entradas en las bases de datos, las leen, las actualizan y las eliminan a lo largo de su ejecución.
