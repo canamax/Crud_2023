@@ -1,0 +1,5 @@
+Mi objetivo para esta carrera es adquirir nuevos conocimientos tanto en el ambito tecnológico, como en el laboral. También espero poder aprender todo lo relacionado a programación,   diseño y base de datos. 
+Con respecto a mis anhelos, deseo poder adentrarme en ese mundo, conseguir trabajo y poder vivir de esta carrera en un futuro
+
+¿QUE ES CRUD?
+C.R.U.D son siglas en base de datos que significan Create, Read, Update, Delete que son las formas en las que un dato se puede manejar, creandolo, leyendolo, actualizando o borrandolo
